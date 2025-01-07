@@ -1,0 +1,9 @@
+{
+    "manifestVersion": 1,
+    "id": "WaypointToDestination",
+    "name": "WaypointToDestination",
+    "version": "0.0.1",
+    "assemblies": [
+        "WaypointToDestination"
+    ]
+}

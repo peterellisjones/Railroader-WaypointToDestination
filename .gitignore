@@ -1,0 +1,6 @@
+WaypointToDestination/bin
+WaypointToDestination/obj
+.vs
+_ReSharper.Caches
+*.user
+*.zip
