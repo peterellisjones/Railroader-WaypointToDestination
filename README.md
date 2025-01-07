@@ -1,6 +1,6 @@
 # Railroader Mod: WaypointToDestination
 
-![](/Capture.PNG)
+![](./Capture.PNG)
 
 This mod adds a button to the freight car operations tab that will route the train to the desitnation track.
 
