@@ -4,7 +4,7 @@
 
 This mod adds a button to the freight car operations tab that will route the train to the desitnation track.
 
-To work sucessfully there **should be one and only one locomotive in the consist that does not have its brakes cut out** -- this will be the locomotive that the waypoint order is given to.
+This works with one locomotive and multiple units but there should only be one locomotive in the consist that _does not_ have it's brakes cut-out -- this is the locomotive the waypoint order will be given to.
 
 Caveats:
 * When there are multiple possible destination tracks, like at Sylvia Interchange, it doesn't know which is the best one to go to, it will just choose the first one it finds.
